@@ -110,7 +110,7 @@
     "@types/ledgerhq__hw-transport": "^4.21.2",
     "@types/ledgerhq__hw-transport-u2f": "^4.21.1",
     "@types/ledgerhq__hw-transport-webusb": "^4.70.0",
-    "@walletconnect/client": "^1.4.1",
+    "@walletconnect/client": "^1.8.0",
     "@zondax/ledger-polkadot": "^0.13.6",
     "@zondax/ledger-substrate": "^0.17.3",
     "@zxing/browser": "0.0.8",
